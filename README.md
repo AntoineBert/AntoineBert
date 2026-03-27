@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 # 👋 Hi, I'm Antoine Bertrand
 
 Graduate student at **Colorado State University**, pursuing a double MSc in Mechanical Engineering and Automotive Engineering through a partnership with **ENSTA Bretagne**.
